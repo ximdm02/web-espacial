@@ -1,0 +1,31 @@
+body{
+    background-color: gainsboro;
+    font-family: 'Courier Prime', monospace;
+    color: darkslategrey;
+}
+
+img{
+    width: 400px;
+    border-radius: 20px;
+}
+
+.tierra{
+    width: 400px;
+}
+
+.astrob-title{
+    font-size: 20px;
+}
+
+.p-origen{
+    font-family: 'Courier Prime', monospace;
+}
+
+.title-misiones{
+    color: darkslategray;
+}
+
+.maintitle{
+    font-family: 'Anton', sans-serif;
+
+}
